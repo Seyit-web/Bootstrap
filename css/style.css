@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: #92A6A9;
+}
+
+ul, li {
+  list-style-type: none;
+}
+
+.navbar {
+  opacity: .9;
+}
+
+.carousel-item {
+  height: 700px;
+}
+
+.carousel-item img {
+  height: 700px;
+}
+
+.card:hover {
+  -webkit-box-shadow: 0px 5px 15px rgba(13, 45, 248, 0.1), 0 15px 30px rgba(142, 17, 17, 0.1);
+          box-shadow: 0px 5px 15px rgba(13, 45, 248, 0.1), 0 15px 30px rgba(142, 17, 17, 0.1);
+}
+
+.bi {
+  font-size: 30px;
+  color: #2f1bca;
+}
